@@ -12,7 +12,7 @@
   ],
   "author": "Ethan",
   "email": "ethan2478@proton.me",
-  "license": "ISC",
+  "license": "MIT",
   "packageManager": "pnpm@10.9.0",
   "workspaces": [
     "packages/*"
